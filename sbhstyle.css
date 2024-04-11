@@ -1,0 +1,59 @@
+.h1 {
+  font: 300% Noir Typeface, sans serif;
+  color: #800080;
+  background-color: #d8bfd8;
+  border: 2px solid #800080;
+  text-align: center;
+}
+
+.h2 {
+  font: 150% Noir Typeface, sans serif;
+  color: rebeccapurple;
+}
+
+.h3 {
+  font: 130% Noir Typeface, sans serif;
+  color: rebeccapurple;
+}
+
+.books .button {
+  background-color: #d8bfd8;
+  border: 2px solid #800080;
+  margin: 10px;
+  width: 680px;
+  border-radius: 10px;
+}
+.books .button img {
+  width: 200px;
+  height: 190px;
+  float: left;
+}
+.books .button a {
+  color: #800080;
+  font: 200% Noir Typeface, sans serif;
+  padding: 45px;
+  float: right;
+  text-align: center;
+  margin: 35px;
+}
+
+.footer {
+  border: 1px solid #800080;
+  width: 700px;
+  background-color: #c6c1cd;
+}
+.footer a {
+  color: #800080;
+  font: 250% Noir Typeface, sans serif;
+}
+.footer a #topbtn {
+  background-color: rebeccapurple;
+}
+.footer a .scrollup {
+  width: 40px;
+  height: 40px;
+  opacity: 0.5;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}/*# sourceMappingURL=sbhstyle.css.map */
